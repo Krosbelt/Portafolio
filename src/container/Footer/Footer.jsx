@@ -35,13 +35,11 @@ const Footer = () => {
                         className='app__button-footer'
                         
                     >
-                        <a href="portafolio/#home" ><BsFillArrowUpCircleFill /></a>
+                        <a href="home" ><BsFillArrowUpCircleFill /></a>
                     </motion.button>
                 
             </div>
-            {/* <div >
-               
-            </div> */}
+        
 
             <div className="copyright">
                     <p className="p-text">@2022 KR</p>
