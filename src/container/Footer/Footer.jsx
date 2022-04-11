@@ -39,9 +39,7 @@ const Footer = () => {
                     </motion.button>
                 
             </div>
-            {/* <div >
-               
-            </div> */}
+        
 
             <div className="copyright">
                     <p className="p-text">@2022 KR</p>
