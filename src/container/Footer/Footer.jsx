@@ -35,7 +35,7 @@ const Footer = () => {
                         className='app__button-footer'
                         
                     >
-                        <a href="/#home" ><BsFillArrowUpCircleFill /></a>
+                        <a href="portafolio/#home" ><BsFillArrowUpCircleFill /></a>
                     </motion.button>
                 
             </div>

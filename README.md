@@ -1,3 +1,37 @@
+<h1>Portafolio</h1>
+
+
+<p><em> Educamás -> <a href="https://educamas.com.co/">Programate</a> Cohorte IV REEDOM DEVELOPER. 💻 </br>
+</em></p>
+
+Mi CV
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+
+⚙️ Technologies
+
+☕  React
+<br>
+☕  Css - Sccs
+
+
+⚙️ Deploy available: 
+
+<hr>
+<img src="./src/assets/01.png">
+<img src="./src/assets/02.png" >
+<img src="./src/assets/03.png" >
+<img src="./src/assets/04.png" >
+<img src="./src/assets/05.png" >
+<img src="./src/assets/06.png" >
+
+
+</span>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
