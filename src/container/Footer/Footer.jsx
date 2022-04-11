@@ -27,19 +27,7 @@ const Footer = () => {
                     <a href="https://api.whatsapp.com/send?phone=+573006904174&text=Hello, Can we talk?" target="_blank" rel='noreferrer'>Chat with me</a>
                 </div>
             </div>
-            
-            <div className='scroll__down'>
-               
-                    <motion.button
-                        whileHover={{ scale: 1.1,}}
-                        className='app__button-footer'
-                        
-                    >
-                        <a href="home" ><BsFillArrowUpCircleFill /></a>
-                    </motion.button>
-                
-            </div>
-        
+           
 
             <div className="copyright">
                     <p className="p-text">@2022 KR</p>
