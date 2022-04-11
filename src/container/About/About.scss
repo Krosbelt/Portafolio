@@ -1,0 +1,55 @@
+.about {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 1rem 1rem;
+
+    .app__about-text {
+        display: flex;
+        width: 45%;
+        flex-direction: column;
+        
+
+        p {
+            font-size: 1.2rem;
+        }
+    }
+
+    .app__about-img {
+        width: 45%;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        background: #3494E6;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+        border-radius: 78% 22% 74% 24%;
+
+        @media screen and (max-width: 700px) {
+            display: none;
+
+
+        }
+    }
+
+    @media screen and (max-width: 700px) {
+        
+            flex-direction: column;
+            flex-wrap: wrap;
+            
+            .app__about-text{
+                width: auto;
+              
+                text-rendering: geometricPrecision;
+                text-indent: 0%;
+                font-size: 0.2rem;
+               
+            }
+
+        
+    }
+
+}
