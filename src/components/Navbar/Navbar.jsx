@@ -22,7 +22,7 @@ const Navbar = () => {
 
             <ul className='app__navbar-links'>
                 {/* Arreglo dinámico */}
-                {['home', 'about', 'services', 'work', 'contact'].map((item) => (
+                {['home', 'about', 'services','skills','work', 'contact'].map((item) => (
                     <li className='app__flex pt-text' key={`link-${item}`}>
                         <div />
                         <a href={`#${item}`}>{item}</a>
@@ -41,7 +41,7 @@ const Navbar = () => {
                         <HiX onClick={() => setToggle(false)} />
                         
                         <ul>
-                        {['home', 'about', 'services', 'work', 'contact'].map((item) => (
+                        {['home', 'about', 'services','skills','work', 'contact'].map((item) => (
                             <li key={item}>
                                 <a href={`#${item}`} onClick={() => setToggle(false)}>
                                     {item}

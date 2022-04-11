@@ -13,6 +13,11 @@ import email from '../assets/email.png';
 import mobile from '../assets/mobile.png'
 import svg from '../assets/blob.svg';
 import profile1 from '../assets/profile1.png';
+import figma from '../assets/figma.png';
+import html from '../assets/html.png';
+import git from '../assets/git.png';
+import mysql from '../assets/mysql.png';
+import mongodb from '../assets/mongodb.png'
 
 export default {
     Logo,
@@ -30,4 +35,9 @@ export default {
     mobile,
     svg,
     profile1,
+    figma,
+    html,
+    git,
+    mysql,
+    mongodb
 }

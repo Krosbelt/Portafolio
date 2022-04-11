@@ -32,21 +32,21 @@ const Header = () => {
                 <h1>Hi, I'm Karen</h1>
 
                 <h1 style={{ margin: 'auto 0', fontWeight: 'normal' }}>
-        Frontend {' '}
-        <span style={{ color: 'purple', fontWeight: 'bold' }}>
-          {/* Style will be inherited from the parent element */}
-          <Typewriter
-            words={['Frontend Developer', 'Backend Developer', 'Mobile', 'UX/UI']}
-            loop={5}
-            cursor
-            cursorStyle='_'
-            typeSpeed={70}
-            deleteSpeed={50}
-            delaySpeed={600}
-          
-          />
-        </span>
-      </h1>
+                Frontend {' '}
+                    <span style={{ color: 'purple', fontWeight: 'bold' }}>
+                    {/* Style will be inherited from the parent element */}
+                        <Typewriter
+                            words={['Frontend Developer', 'Backend Developer', 'Mobile', 'UX/UI']}
+                            loop={5}
+                            cursor
+                            cursorStyle='_'
+                            typeSpeed={70}
+                            deleteSpeed={50}
+                            delaySpeed={600}
+                        
+                        />
+                    </span>
+                </h1>
                 <a href="/#contact" className='button'>
                     Contact me!
                     <span><BsBoxArrowInRight /></span>
@@ -56,7 +56,6 @@ const Header = () => {
             </div>
 
             <div className='right'>
-                <img src={images.profile} alt="" />
                 <motion.div
                 variants={scaleVariants}
                 whileInView={scaleVariants.whileInView}
