@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.c479b9cf.css",
-    "main.js": "/Portafolio/static/js/main.feadb536.js",
+    "main.css": "/Portafolio/static/css/main.b95d067b.css",
+    "main.js": "/Portafolio/static/js/main.5283f51e.js",
     "static/media/bgIMG.png": "/Portafolio/static/media/bgIMG.c39101e520e2997fc6d4.png",
     "static/media/profile1.png": "/Portafolio/static/media/profile1.ee489764521abe34026b.png",
+    "static/media/landingStarbucks.png": "/Portafolio/static/media/landingStarbucks.19e87c29004e60b0a77c.png",
     "static/media/profile.png": "/Portafolio/static/media/profile.9f2f6ca1f07ebe2bd9d6.png",
     "static/media/about03.jpg": "/Portafolio/static/media/about03.4e59669eb97bd1dc2506.jpg",
+    "static/media/App-todo-home.png": "/Portafolio/static/media/App-todo-home.42da52f6415a2e56869d.png",
     "static/media/about04.jpg": "/Portafolio/static/media/about04.666774ee3982e2bb9f2c.jpg",
     "static/media/about01.jpg": "/Portafolio/static/media/about01.5229ff1a385fefa95bde.jpg",
     "static/media/about02.jpg": "/Portafolio/static/media/about02.98138ebe486d30a378c0.jpg",
     "static/media/logo.png": "/Portafolio/static/media/logo.222cc8c10914ffad6784.png",
+    "static/media/QR.png": "/Portafolio/static/media/QR.666e8cf24ddd40d589df.png",
     "static/media/mobile.png": "/Portafolio/static/media/mobile.145d9ce0157a56f8fcd8.png",
     "static/media/email.png": "/Portafolio/static/media/email.37b9e890eea501421fbf.png",
     "static/media/figma.png": "/Portafolio/static/media/figma.152e55329b6f1915967e.png",
     "static/media/css.png": "/Portafolio/static/media/css.5721a3928fe43de6baf8.png",
     "static/media/git.png": "/Portafolio/static/media/git.a54d3fa44e02f2f61e69.png",
+    "static/media/bootstrap-logo.svg": "/Portafolio/static/media/bootstrap-logo.b91717f3b8ef81a7bf2e8b03a9579108.svg",
     "static/media/blob.svg": "/Portafolio/static/media/blob.fe58955dcc3f3508cb7c7b6f00edd075.svg",
     "index.html": "/Portafolio/index.html",
     "static/media/circle.svg": "/Portafolio/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
-    "main.c479b9cf.css.map": "/Portafolio/static/css/main.c479b9cf.css.map",
-    "main.feadb536.js.map": "/Portafolio/static/js/main.feadb536.js.map"
+    "main.b95d067b.css.map": "/Portafolio/static/css/main.b95d067b.css.map",
+    "main.5283f51e.js.map": "/Portafolio/static/js/main.5283f51e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c479b9cf.css",
-    "static/js/main.feadb536.js"
+    "static/css/main.b95d067b.css",
+    "static/js/main.5283f51e.js"
   ]
 }
