@@ -10,9 +10,9 @@ import './Work.scss'
 
 
 const worksProject =[
-    { title: "App Todo stack mern", description: "App todo using stack mern", projectLink: "", codeLink:"" ,imgUrl: images.about01, tags: "MongoDB" },
-    { title: "App Todo stack mern", description: "App todo using stack mern", projectLink: "", codeLink:"" ,imgUrl: images.about01, tags: "React JS" },
-    { title: "App Todo stack mern", description: "App todo using stack mern", projectLink: "", codeLink:"" ,imgUrl: images.about01, tags: "React JS" },
+    { title: "Landing Page Starbucks", description: "Landing using Html, css y JavaScript", projectLink: "https://krosbelt.github.io/Landing-Page-Starbucks/", codeLink:"https://github.com/Krosbelt/Landing-Page-Starbucks" ,imgUrl: images.starbucks, tags: "Html + Css + JavaScript" },
+    { title: "QR Generator", description: "QR generator using Html, Css and JavaScript", projectLink: "https://krosbelt.github.io/QR-Genrator/", codeLink:"https://github.com/Krosbelt/QR-Genrator" ,imgUrl: images.qrproject, tags: "React JS" },
+    { title: "App Todo stack mern", description: "App todo using stack mern", projectLink: "https://app-todo-mongo-db-frontend.vercel.app/", codeLink:"https://github.com/Krosbelt/App-todo-MongoDB" ,imgUrl: images.apptodo, tags: "Stack Mern" },
 ]
 
 
@@ -43,7 +43,7 @@ const Work = () => {
             <h2 className='head-text'>My projects</h2>
             
             <div className="app__work-filter">
-                {['UI/UX', 'Web App', 'MongoDB', 'React JS', 'All'].map((item, index) => (
+                {['Html + Css', 'Html + Css + JavaScript', 'React Js', 'Stack Mern', 'All'].map((item, index) => (
                     <div
                         key={index}
                         onClick={() => handleWorkFilter(item)}

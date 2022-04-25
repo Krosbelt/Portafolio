@@ -17,7 +17,11 @@ import figma from '../assets/figma.png';
 import html from '../assets/html.png';
 import git from '../assets/git.png';
 import mysql from '../assets/mysql.png';
-import mongodb from '../assets/mongodb.png'
+import mongodb from '../assets/mongodb.png';
+import bootstrap from '../assets/bootstrap-logo.svg';
+import qrproject from '../assets/QR.png';
+import apptodo from '../assets/App-todo-home.png';
+import starbucks from '../assets/landingStarbucks.png';
 
 export default {
     Logo,
@@ -39,5 +43,9 @@ export default {
     html,
     git,
     mysql,
-    mongodb
+    mongodb,
+    bootstrap,
+    qrproject,
+    apptodo,
+    starbucks,
 }

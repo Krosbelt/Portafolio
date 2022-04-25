@@ -23,7 +23,7 @@ const About = () => {
                         I am passionate about development and every day I try to learn new things, I love reading and I rescue street animals.
                     </p>
                     <div>
-                        <a href='/' target='_blank' className='button' style={{width: 200}}>
+                        <a href='https://drive.google.com/file/d/1QkHG8MTXrtQosPvR_9PhZTV6uyujbhle/view?usp=sharing' target='_blank' className='button' style={{width: 200}}>
                             Download CV 
                             <span><BsFileEarmarkArrowDownFill /></span>
                         </a>

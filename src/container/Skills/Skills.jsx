@@ -9,6 +9,7 @@ const languages = [
     {name: 'Git', icon: images.git, percent: '75%'},
     {name: 'Html', icon: images.html, percent: '90%'},
     {name: 'Css', icon: images.css, percent: '80%'},
+    {name: 'Bootstrap', icon: images.bootstrap},
     {name: 'JavaScript', icon: images.javascript, percent: '70%'},
     {name: 'React', icon: images.react, percent: '65%'},
     {name: 'MySql', icon: images.mysql, percent: '45%'},
@@ -36,7 +37,6 @@ const Skills = () => {
                                 <img src={index.icon} alt={index.name}/>
                             </div>
                             <p className='p-text'>{index.name}</p>
-                            <p className='p-text'>{index.percent}</p>
                         </motion.div>
                     ))}
                 </motion.div>

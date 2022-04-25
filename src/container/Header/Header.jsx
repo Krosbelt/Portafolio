@@ -32,7 +32,7 @@ const Header = () => {
                 <h1>Hi, I'm Karen</h1>
 
                 <h1 style={{ margin: 'auto 0', fontWeight: 'normal' }}>
-                Frontend {' '}
+                {' '}
                     <span style={{ color: 'purple', fontWeight: 'bold' }}>
                     {/* Style will be inherited from the parent element */}
                         <Typewriter
@@ -47,12 +47,14 @@ const Header = () => {
                         />
                     </span>
                 </h1>
+                
+                </motion.div>
+
                 <a href="/#contact" className='button'>
                     Contact me!
                     <span><BsBoxArrowInRight /></span>
                 </a>
 
-                </motion.div>
             </div>
 
             <div className='right'>
